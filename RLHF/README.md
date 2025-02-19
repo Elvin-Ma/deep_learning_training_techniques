@@ -92,7 +92,9 @@
 
 - [文档连接](https://huggingface.co/blog/zh/rlhf)
 
-# 3 InstructGPT
+*在策略优化中，KL 散度用于限制新旧策略之间的差异，确保策略更新不会过于激进* <br>
+
+# 3 知识进阶： InstructGPT
 
 - [论文连接-EN](https://arxiv.org/pdf/2203.02155)
 - [论文连接-CN](https://yiyibooks.cn/arxiv/2203.02155v1/index.html)
