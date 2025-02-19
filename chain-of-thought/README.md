@@ -13,7 +13,7 @@
 
 当我们将这个提示给到IBM watsonx.ai聊天机器人时，可以看到以下人与AI助手之间的对话。
 
-![figure1](./images/figure1.png)
+![figure1](./images/figure1.jpg)
 
 为了生成这种类型的输出，思维链的基本原理如以下图像所示。思维链的最终答案是：“方程 x² − 5x + 6 = 0 的解是 x = 3 和 x = 2”。
 
