@@ -63,3 +63,4 @@
 
 - [论文连接-EN](https://arxiv.org/abs/2210.12936)
 - [论文连接-CN](https://yiyibooks.cn/arxiv/2210.12936v1/index.html)
+- [An Empirical Model of Large-Batch Training](https://arxiv.org/pdf/1812.06162)
